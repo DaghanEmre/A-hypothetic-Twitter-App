@@ -1,0 +1,88 @@
+User 'walkingDead' has been created
+Err: The user username has already been created.
+User 'olympics' has been created
+User 'culture_art' has been created
+User 'traveler' has been created
+User 'desktop' has been created
+User 'ig_canonturk' has been created
+walkingDead followed olympics
+walkingDead followed desktop
+olympics followed traveler
+Err: walkingDead cannot follow itself
+olympics followed walkingDead
+olympics followed ig_canonturk
+traveler followed ig_canonturk
+traveler followed walkingDead
+desktop followed culture_art
+ig_canonturk followed desktop
+Err: culture_art cannot follow itself
+culture_art followed ig_canonturk
+desktop followed olympics
+Err: traveler cannot follow itself
+ig_canonturk followed traveler
+Err: olympics cannot follow itself
+ig_canonturk followed olympics
+Err: desktop has already followed olympics
+desktop followed olympics
+Err: desktop cannot follow itself
+culture_art followed desktop
+Err: the user 'tricky' could not be found!
+Err: olympics cannot follow itself
+traveler followed olympics
+culture_art has liked traveler' post
+ig_canonturk has liked olympics' post
+walkingDead has liked desktop' post
+olympics has liked traveler' post
+desktop has liked traveler' post
+culture_art has liked ig_canonturk' post
+ig_canonturk has liked olympics' post
+olympics has liked traveler' post
+traveler has liked desktop' post
+Err: desktop has already followed olympics
+desktop followed olympics
+------------------------------------------------
+traveler following [3] - blocked [0] users - [4] posts.
+We_are_traveling_to..
+---------------------Tweets---------------------
+'Pegasus_airlines_raised_the_flight_prices' - Likes: 2
+'This_week_we_are_exploring_the_Grand_Canyon!' - Likes: 1
+'The_new_Bianchi_mountain_bikes_are_awesome' - Likes: 1
+'Travel_with_a_rucksack_or_a_car?' - Likes: 0
+------------------------------------------------
+olympics has blocked traveler
+------------------------------------------------
+traveler following [3] - blocked [0] users - [4] posts.
+We_are_traveling_to..
+---------------------Tweets---------------------
+'Pegasus_airlines_raised_the_flight_prices' - Likes: 2
+'This_week_we_are_exploring_the_Grand_Canyon!' - Likes: 1
+'The_new_Bianchi_mountain_bikes_are_awesome' - Likes: 1
+'Travel_with_a_rucksack_or_a_car?' - Likes: 0
+------------------------------------------------
+------------------------------------------------
+desktop following [4] - blocked [0] users - [3] posts.
+Home_is_where_hard_drive_is
+---------------------Tweets---------------------
+'New_GeForceFX_graphics_processor' - Likes: 0
+'Intel_launches_the_new_9nm_chips' - Likes: 1
+'The_upcoming_Windows:_Windows_10' - Likes: 1
+------------------------------------------------
+desktop has reposted culture_art
+------------------------------------------------
+desktop following [4] - blocked [0] users - [3] posts.
+Home_is_where_hard_drive_is
+---------------------Tweets---------------------
+'New_GeForceFX_graphics_processor' - Likes: 0
+'Intel_launches_the_new_9nm_chips' - Likes: 1
+'The_upcoming_Windows:_Windows_10' - Likes: 1
+------------------------------------------------
+desktop has blocked culture_art
+------------------------------------------------
+desktop following [4] - blocked [0] users - [3] posts.
+Home_is_where_hard_drive_is
+---------------------Tweets---------------------
+'New_GeForceFX_graphics_processor' - Likes: 0
+'Intel_launches_the_new_9nm_chips' - Likes: 1
+'The_upcoming_Windows:_Windows_10' - Likes: 1
+------------------------------------------------
+olympics has been unfollowed by ig_canonturk
